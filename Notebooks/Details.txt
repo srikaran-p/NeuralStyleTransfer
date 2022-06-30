@@ -1,1 +1,3 @@
-CycleGAN_23Jun2022_V6 = 80.97722
+CycleGAN_V6 = 80.97722
+
+CycleGAN_V8 = 69.98891
